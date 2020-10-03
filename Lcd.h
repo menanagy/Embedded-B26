@@ -1,7 +1,7 @@
 /*
  * Lcd.h
  *
- *  Created on: ??ş/??ş/????
+ *  Created B26 Embedded
  *      Author: mina
  */
 
