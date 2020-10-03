@@ -2,7 +2,7 @@
  * Lcd.h
  *
  *  Created B26 Embedded
- *      Author: mina
+ *      Author: mina Nagy 2222222
  */
 
 #ifndef LCD_H_
