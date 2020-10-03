@@ -4,7 +4,7 @@
  *  Created on: Agu 23, 2020
  *      Author: Mina Nagy
  */
-
+//Embedded mmmmmmmmmmmm
 #ifndef LED_H_
 #define LED_H_
 #define OUTPUT 1
