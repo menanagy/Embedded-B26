@@ -2,6 +2,7 @@
  * Seg.h
  *
  *  Created on: Aug 25, 2020
+ B26MinaNagy
  *      Author: Mina Nagy
  */
 
